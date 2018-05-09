@@ -1,6 +1,5 @@
-# RubySpaceship
+# Intro to Ruby Game Development
 #Spaceship Game using Gosu Gem
+#Whackamole Game using Gosu Gem
 
-#To Do:
-  #Add level functionality
-  #Random level generation?
+
